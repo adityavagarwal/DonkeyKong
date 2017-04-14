@@ -1,4 +1,4 @@
-__author__ = 'aditya'
+__author__ = 'Aditya Vikram Agarwal'
 
 import board
 import pygame
