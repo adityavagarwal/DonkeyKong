@@ -1,4 +1,4 @@
-__author__ = 'raghuram'
+__author__ = 'Aditya Vikram Agarwal'
 import pygame
 
 import person
